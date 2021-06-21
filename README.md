@@ -12,4 +12,4 @@ java  bft.Server [OPTIONS ...]  PORT  DIRECTORY
 where
 OPTIONS  := { -d[ebug] | -h[elp] }
 
-![alt text](photo_2021-06-21 12.37.27.jpeg)
+
